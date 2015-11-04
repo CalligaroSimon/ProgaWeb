@@ -1,0 +1,22 @@
+	
+	body {
+		background-image:url("http://wallpaper.pickywallpapers.com/1600x900/jace-beleren.jpg");
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		background-attachment: fixed;
+		font-family: "Tahoma", Arial, sans-serif;
+}
+	p, li {
+		background:rgba(255, 255, 255,0.5);
+		margin-right:5px;
+ 		margin-left:20px;
+		
+}
+	h2 {
+		font-size:xx-large;
+		color:#E600E5;
+		font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+				
+}
+	h1 {
+		font-family:Georgia, serif;
